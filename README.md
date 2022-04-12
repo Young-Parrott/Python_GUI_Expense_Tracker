@@ -1,2 +1,4 @@
 # Python_GUI_Expense_Tracker
-A GUI Expenense Tracker made using Python.
+This application utilized tkinter, sqlite3, and python to create a functioning GUI expense tracker with full C.R.U.D. opeations.
+
+
